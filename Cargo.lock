@@ -2173,7 +2173,7 @@ dependencies = [
 [[package]]
 name = "iroh-metrics"
 version = "0.30.0"
-source = "git+https://github.com/n0-computer/iroh-metrics.git?branch=matheus23/optional-deps#9f0b95ad2f0f51e9040c6861d56d0d7f85828aff"
+source = "git+https://github.com/n0-computer/iroh-metrics.git?branch=main#2cd2e982bb8a1cbee0431902868783f6630ab62c"
 dependencies = [
  "erased_set",
  "http-body-util",
